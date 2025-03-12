@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.py": "python",
+        "chrono": "cpp"
+    },
+    "cmake.sourceDirectory": "/root/code/yzTrader/Test"
+}

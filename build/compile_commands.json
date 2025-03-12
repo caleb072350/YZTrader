@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/root/code/yzTrader/build",
+  "command": "/usr/bin/g++ -g -std=gnu++17 -o CMakeFiles/object_pool_demo.dir/TestObjectPool.cpp.o -c /root/code/yzTrader/Test/TestObjectPool.cpp",
+  "file": "/root/code/yzTrader/Test/TestObjectPool.cpp",
+  "output": "CMakeFiles/object_pool_demo.dir/TestObjectPool.cpp.o"
+}
+]
